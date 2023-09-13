@@ -1,8 +1,6 @@
 # 01 Horiseon: Code Refactor
 
-## Description
-
-## User Story
+## Description/User Story
 
 ```
 AS A marketing agency
@@ -29,5 +27,8 @@ THEN I find a concise, descriptive title
 ### URL to deployed page
 https://platano91.github.io/01-challenge/
 
-###
-Comments
+### Screenshot
+![Refactor page screenshot](image.png)
+
+### Comments
+
