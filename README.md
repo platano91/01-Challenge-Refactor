@@ -26,8 +26,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-###
-URL to deployed page
+### URL to deployed page
+https://platano91.github.io/01-challenge/
 
 ###
 Comments
